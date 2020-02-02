@@ -3,6 +3,7 @@ logistic regression &amp; deep learning
 
 
 Deep learning model accuracy = 88%
+
 Logistic Regression model accuracy = 88%, hyperparameter tuning does not improve this.
 
 the majority of loss is due to difficulty differentiating between "confirmed" and "candidate" exoplanets. An additional metric (whatever is used to confirm a candidate as an exoplanet) would help improve the model. 
